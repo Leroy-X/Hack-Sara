@@ -1,6 +1,7 @@
 # Hack-Sara
 Hack Sara|骇客黑体\Hack Round|骇客柔体
 
+适合编程的中文免费字体
 
 
 ### 骇客黑体
@@ -32,4 +33,5 @@ Hack Sara|骇客黑体\Hack Round|骇客柔体
 - Mathematical Operators
 
 另外，已将Hack字体中的点零改为斜线零以提高辨识度。
+
 
