@@ -7,7 +7,7 @@ Hack Sara|骇客黑体\Hack Round|骇客柔体\Hack Droid 骇客极简
 
 ### 骇客极简(Hack Droid)
 
-该字体由[Hack](https://github.com/source-foundry/Hack)等宽英文字体和[DroidSansFallback.ttf](https://github.com/aosp-mirror/platform_frameworks_base/blob/master/data/fonts/DroidSansFallback.ttf)合并而成，并对中文标点进行了左右的偏移，以符合中文习惯。体积小巧，适合嵌入使用。
+该字体由[Hack](https://github.com/source-foundry/Hack)等宽英文字体和[DroidSansFallback.ttf](https://github.com/aosp-mirror/platform_frameworks_base/blob/master/data/fonts/DroidSansFallback.ttf)合并而成，并对中文标点进行了左右的偏移，以符合中文习惯。体积小巧，支持繁体，适合嵌入等使用。
 
 
 
